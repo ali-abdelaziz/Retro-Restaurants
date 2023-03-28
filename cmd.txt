@@ -1,0 +1,7 @@
+ng serve
+to run the app server
+****************************************
+json-server --watch db.jso
+to run the db.json server
+http://localhost:3000
+****************************************

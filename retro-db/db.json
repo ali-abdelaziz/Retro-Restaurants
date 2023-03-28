@@ -1,0 +1,66 @@
+{
+  "restaurants": [
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "address": "dokki, giza, egypt",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Burger King",
+      "address": "dokki, giza, egypt",
+      "email": "bgk@test.com"
+    },
+    {
+      "id": 3,
+      "name": "Dominos",
+      "address": "dokki, giza, egypt",
+      "email": "dom@test.com"
+    },
+    {
+      "id": 4,
+      "name": "Star Bucks",
+      "address": "dokki, giza, egypt",
+      "email": "sb@test.com"
+    },
+    {
+      "id": 5,
+      "name": "MC Donalds",
+      "address": "dokki, giza, egypt",
+      "email": "mcd@test.com"
+    },
+    {
+      "name": "test1",
+      "email": "test1@test.com",
+      "address": "test1",
+      "id": 6
+    },
+    {
+      "name": "test2",
+      "email": "test2@test.com",
+      "address": "test2",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "testtest",
+      "email": "test@test.com",
+      "password": "456",
+      "id": 1
+    },
+    {
+      "name": "thomas",
+      "email": "thomas@test.com",
+      "password": "789",
+      "id": 2
+    },
+    {
+      "name": "thomas",
+      "email": "thomas@test.com",
+      "password": "159",
+      "id": 3
+    }
+  ]
+}
